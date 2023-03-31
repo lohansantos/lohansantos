@@ -15,8 +15,7 @@ Ele/dele
   <div>
   <a href = "mailto:lohancarlos28@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/lohansantos" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a> 
-  <a href="https://www.instagram.com/lohan_sants" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a> 
-    <a href="https://www.tiktok.com/@lohan_sants" target="_blank"><img src="https://img.icons8.com/color/48/000000/tiktok--v1.png"/></a> 
-    <a href="https://www.youtube.com/channel/UCzNI6-6FbNRX8PUrREG1TJg" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+ 
+</a>
   </div>
 
